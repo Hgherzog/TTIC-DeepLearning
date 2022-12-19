@@ -1,1 +1,4 @@
 This repository contains code I have written for my deep learning class at TTIC taught by David Mcallester.
+Pset 1 contains a multilayer perceptron built with Numpy
+Pset 2 contains many variations of residual networks I built to understand how network depth and different activation layers affect classifciation accuracy for mnist
+In Pset 3, I built a GAN and a VAE to generate celebrity faces.
